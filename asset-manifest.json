@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codekart-todo-list/static/css/main.e8a2635c.css",
+    "main.js": "/codekart-todo-list/static/js/main.6ed8d329.js",
+    "static/js/787.a5cad257.chunk.js": "/codekart-todo-list/static/js/787.a5cad257.chunk.js",
+    "index.html": "/codekart-todo-list/index.html",
+    "main.e8a2635c.css.map": "/codekart-todo-list/static/css/main.e8a2635c.css.map",
+    "main.6ed8d329.js.map": "/codekart-todo-list/static/js/main.6ed8d329.js.map",
+    "787.a5cad257.chunk.js.map": "/codekart-todo-list/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8a2635c.css",
+    "static/js/main.6ed8d329.js"
+  ]
+}
